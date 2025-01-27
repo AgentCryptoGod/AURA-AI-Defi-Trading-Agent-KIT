@@ -1,4 +1,5 @@
-![Aura Labs AI](image.png)
+![Uploading image.png…]()
+
 
 # 🌐 Aura AI - AI & Blockchain Innovation Hub 🚀
 
