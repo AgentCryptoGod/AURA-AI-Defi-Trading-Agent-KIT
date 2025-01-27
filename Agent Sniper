@@ -1,0 +1,14 @@
+agent_sniper/README.md
+# Agent Sniper  
+This folder contains the **Aura AI-developed Agent Sniper**, designed to **snipe CA (Contract Addresses) from Twitter or Telegram** while detecting and executing **profitable trades on Solana**.  
+
+## Features:  
+✅ **Real-time CA Sniping** from Twitter & Telegram sources  
+✅ **AI-driven trade execution** for new token launches  
+✅ **Automated NFT & Liquidity Pool Sniping**  
+✅ **Fast execution using Solana Agent Kit**  
+
+This AI sniper bot leverages **GPT-4, predictive analytics, and Solana automation** to react faster than human traders.  
+
+---
+🚀 **Stay ahead in DeFi trading with AI-powered execution!**
